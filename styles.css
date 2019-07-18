@@ -1,0 +1,16 @@
+body {
+    background-color: #114B5F;
+}
+
+form {
+    width: 500px;
+    margin: 50px auto;
+    z-index: 2;
+    border: 1px solid #000;
+    background: #fff;
+}
+
+.tos:hover {
+    text-decoration: none;
+    color: #777;
+}
